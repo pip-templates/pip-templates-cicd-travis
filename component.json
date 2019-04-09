@@ -1,0 +1,6 @@
+{
+    "name":  "microservice_name",
+    "version":  "1.0.0",
+    "registry": "piptemplates",
+    "build": 1
+}
