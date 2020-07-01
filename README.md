@@ -1,4 +1,12 @@
-# travis-ci.org settings
+# Overview
+
+This is template for Travis CI pipeline for node js microservice. View dockerfiles in [Dockerization template](https://github.com/pip-templates/pip-templates-microservice-dockerization).
+
+# Usage
+
+Copy component.json, .travis.yml and *.ps1 scripts to microservice folder and enable build on [Travis repositories settings](https://travis-ci.org/account/repositories)
+
+# Settings
 
 Required environment variables:
 * **DOCKER_USER** - docker username to access docker registry on image publish
